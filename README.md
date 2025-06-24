@@ -72,7 +72,4 @@ For inquiries, suggestions, or support, feel free to reach out:
 - **Email**: [kavyasrivj271@gmail.com](mailto:kavyasrivj271@gmail.com)  
 - **GitHub**: [https://github.com/kav-xx/](https://github.com/kav-xx/)  
 
----
-
-Feel free to customize it further with badges, screenshots, or additional details about your project. 😊
 
